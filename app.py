@@ -95,8 +95,8 @@ def main():
 
         st.write("Developed By: Chacha Alex Chacha")
         st.markdown("""Reach out to me on: [Twitter](https://twitter.com/ca_hac) |
-       [Linkedin](https://www.linkedin.com/in/avi-kumar-talaviya-739153147/) |
-       [Kaggle](https://www.kaggle.com/avikumart) 
+       [Linkedin](https://www.linkedin.com/in/chacha-chacha-3155a7145/) |
+       [Kaggle](https://www.kaggle.com/chachaalex) 
        """)
 
     a, b, c = st.columns([0.2, 0.6, 0.2])
