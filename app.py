@@ -155,7 +155,7 @@ st.set_page_config(page_title="Accident Severity Prediction App",
                    page_icon="🚧", layout="wide")
 
 # creating option list for dropdown menu
-options_day = ['Sunday', "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday']
+options_day = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 options_age = ['18-30', '31-50', 'Over 51', 'Unknown', 'Under 18']
 
 # number of vehicle involved: range of 1 to 7
