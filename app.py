@@ -258,7 +258,7 @@ The metric for evaluation will be f1-score
 
 st.markdown(
     "Please find GitHub repository link of project: [Click Here]("
-    "https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")
+    "https://github.com/Chacha-A-Chacha/Chacha-streamlit)")
 
 # run the main function
 if __name__ == '__main__':
